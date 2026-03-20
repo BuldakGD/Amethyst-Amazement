@@ -1,0 +1,11 @@
+{
+  "mlg_pro": {
+    "subtitle": "subtitles.mlg_pro",
+    "sounds": [
+      {
+        "name": "amethyst_amazement:audio-editor-output",
+        "stream": false
+      }
+    ]
+  }
+}

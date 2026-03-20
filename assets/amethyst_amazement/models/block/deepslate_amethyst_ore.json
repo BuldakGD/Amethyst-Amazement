@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "amethyst_amazement:block/deepslate",
+    "up": "amethyst_amazement:block/deepslate",
+    "north": "amethyst_amazement:block/deepslate",
+    "east": "amethyst_amazement:block/deepslate",
+    "south": "amethyst_amazement:block/deepslate",
+    "west": "amethyst_amazement:block/deepslate",
+    "particle": "amethyst_amazement:block/deepslate"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "amethyst_amazement:block/amethyst_ore",
+    "up": "amethyst_amazement:block/amethyst_ore",
+    "north": "amethyst_amazement:block/amethyst_ore",
+    "east": "amethyst_amazement:block/amethyst_ore",
+    "south": "amethyst_amazement:block/amethyst_ore",
+    "west": "amethyst_amazement:block/amethyst_ore",
+    "particle": "amethyst_amazement:block/amethyst_ore"
+  },
+  "render_type": "solid"
+}
