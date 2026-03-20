@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "amethyst_amazement",
+  "category": "equipment",
+  "ingredients": [
+    "amethyst_amazement:amethyst_ingot",
+    "amethyst_amazement:amethyst_ingot",
+    "amethyst_amazement:amethyst_ingot",
+    "minecraft:stick",
+    "minecraft:stick"
+  ],
+  "result": {
+    "id": "amethyst_amazement:amethyst_pickaxe",
+    "count": 1
+  }
+}

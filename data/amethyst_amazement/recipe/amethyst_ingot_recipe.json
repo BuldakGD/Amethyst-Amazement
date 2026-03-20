@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "amethyst_amazement",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": "minecraft:amethyst_shard"
+  },
+  "result": {
+    "id": "amethyst_amazement:amethyst_ingot",
+    "count": 1
+  }
+}

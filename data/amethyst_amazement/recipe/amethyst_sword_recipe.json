@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "amethyst_amazement",
+  "category": "equipment",
+  "pattern": [
+    "a",
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": "amethyst_amazement:amethyst_ingot",
+    "b": "minecraft:stick"
+  },
+  "result": {
+    "id": "amethyst_amazement:amethyst_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "asset_id": "amethyst_amazement:kubo",
+  "height": 2,
+  "width": 1,
+  "title": {
+    "translate": "painting.amethyst_amazement.kubo.title"
+  },
+  "author": {
+    "translate": "painting.amethyst_amazement.kubo.author"
+  }
+}
