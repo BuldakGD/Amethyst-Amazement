@@ -1,0 +1,40 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Not specified"
+
+[[mods]]
+modId="amethyst_amazement"
+version="1.0.0"
+displayName="Amethyst Amazement"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+credits="MCreator"
+authors="Tantruff"
+description="i made this using mcreator :)"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+
+# Start of user code block custom mixins
+# End of user code block custom mixins
+
+[[dependencies.amethyst_amazement]]
+    modId="neoforge"
+    type="required"
+    versionRange="[21.8.31,)"
+    ordering="AFTER"
+    side="BOTH"
+
+[[dependencies.amethyst_amazement]]
+    modId="minecraft"
+    type="required"
+    versionRange="[1.21.8]"
+    ordering="AFTER"
+    side="BOTH"
+
+
+
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration
